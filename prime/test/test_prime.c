@@ -1,5 +1,5 @@
 
-#include "unity.h"
+
 #include "prime.h"
 /* Required by the unity test framework */
 void setUp(){}
